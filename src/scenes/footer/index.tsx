@@ -1,4 +1,3 @@
-import logo from "@/assets/Logo.png";
 
 function Footer() {
     return <footer className="bg-primary-100 py-16">
